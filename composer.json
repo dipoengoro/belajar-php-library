@@ -1,0 +1,19 @@
+{
+    "name": "deubo/belajar-php-library",
+    "description": "Belajar Bikin Library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Deubo\\BelajarPhpLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Diponegoro",
+            "email": "dipoengoro@outlook.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
